@@ -1,6 +1,7 @@
 # hse21_hw3
 
-https://colab.research.google.com/drive/1prGVehgu1X8pDSOGOhaYC27HMuNz30Hn?usp=sharing - ссылка на google colab
+https://colab.research.google.com/drive/1prGVehgu1X8pDSOGOhaYC27HMuNz30Hn?usp=sharing - ссылка на google colab с выравниваниями
+https://colab.research.google.com/drive/1d7nMTW4yupgtIccVMwrEwpqTXNbBgca1?usp=sharing - ссылка на google colab с R
 
 Общая статистика multiQC
 <img width="895" alt="Снимок экрана 2021-12-02 в 19 58 28" src="https://user-images.githubusercontent.com/60537367/144467823-12c0965b-43a4-4f8c-a06f-6019c0216058.png">
