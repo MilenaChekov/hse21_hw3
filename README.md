@@ -24,6 +24,9 @@ https://colab.research.google.com/drive/1d7nMTW4yupgtIccVMwrEwpqTXNbBgca1?usp=sh
 Общая оценка качества образцов
 <img width="875" alt="Снимок экрана 2021-12-02 в 20 03 55" src="https://user-images.githubusercontent.com/60537367/144468769-b8648986-1497-4e3c-b395-8cbfb4a7f741.png">
 
+Таблица со статистикой по образцам
+![haWdlcvMRw0](https://user-images.githubusercontent.com/60537367/144602511-b9bc56bd-c8a2-4a91-993e-871548e2836a.jpg)
+
 Графики из анализа в R
 
 ![image](https://user-images.githubusercontent.com/60537367/144561859-cb2bdab1-5e25-4d05-9d44-8f628bce1573.png)
