@@ -24,3 +24,18 @@ https://colab.research.google.com/drive/1d7nMTW4yupgtIccVMwrEwpqTXNbBgca1?usp=sh
 Общая оценка качества образцов
 <img width="875" alt="Снимок экрана 2021-12-02 в 20 03 55" src="https://user-images.githubusercontent.com/60537367/144468769-b8648986-1497-4e3c-b395-8cbfb4a7f741.png">
 
+Графики из анализа в R
+
+![image](https://user-images.githubusercontent.com/60537367/144561859-cb2bdab1-5e25-4d05-9d44-8f628bce1573.png)
+
+![image](https://user-images.githubusercontent.com/60537367/144561884-bdee4b24-7294-41c6-90ce-c249764c1262.png)
+можно заметить, что есть много генов с положительным сильным изменением около 2 в 10, пониженная же экспрессия в целом не принижает 2 в 5)
+
+![image](https://user-images.githubusercontent.com/60537367/144562095-1d413c23-3418-47dd-8270-b3dd6188d082.png)
+
+Видно, что наиболее диф гены отлично разделяют 2 группы
+![image](https://user-images.githubusercontent.com/60537367/144562151-41a1c612-5ca3-4772-8fa6-963ff5c81423.png)
+![image](https://user-images.githubusercontent.com/60537367/144562173-8e5e3a3a-a753-44fa-8c37-4c8641a0d59e.png)
+![image](https://user-images.githubusercontent.com/60537367/144562192-948aef58-9570-4755-a62d-30ff19b10d34.png)
+
+
